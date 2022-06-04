@@ -1,0 +1,13 @@
+*.pdf
+*.docx
+*.tmp
+*.suo
+.vs/
+app/KubernetesWebApp/[Bb]in/
+app/KubernetesWebApp/[Dd]ebug/
+*_i.c
+*_p.c
+*.meta
+*.obj
+*.pdb
+*.bin
