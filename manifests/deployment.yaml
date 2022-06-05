@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: assignment2k8s
-        image: cs7504mdutoitassignment2.azurecr.io/michaeldt/KubernetesAssignment:latest
+        image: cs7504mdutoitassignment2.azurecr.io/michaeldt/kubernetesassignment:latest
         ports:
         - containerPort: 80
